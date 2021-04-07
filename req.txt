@@ -1,0 +1,11 @@
+pymysql==0.9.3
+pymssql
+pymongo==3.9.0
+cx_Oracle==6.0
+psycopg2==2.7
+socket
+sys
+time
+IPy
+colorama
+requests
