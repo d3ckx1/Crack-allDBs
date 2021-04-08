@@ -8,11 +8,14 @@
 import socket
 import pymssql
 import pymysql
+import psycopg2
+import pymongo
 import sys
 import time
 from IPy import IP
 from colorama import Fore
 import threading
+import requests
 
 banner = '''
 
